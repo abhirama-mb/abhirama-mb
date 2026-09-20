@@ -5,7 +5,7 @@
 <!-- ======================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abhiram%20Ambati&fontSize=60&fontAlignY=38&desc=Backend%20Developer%20%7C%20BTech%20CSE%20%7C%20Cloud%20%26%20DevOps&descFontSize=20&descAlignY=58" width="100%" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abhiram%20M B&fontSize=60&fontAlignY=38&desc=Backend%20Developer%20%7C%20BTech%20CSE%20%7C%20Cloud%20%26%20DevOps&descFontSize=20&descAlignY=58" width="100%" alt="Animated Header" />
 </p>
 
 <!-- ======================================================== -->
