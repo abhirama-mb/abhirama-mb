@@ -6,7 +6,7 @@
 
 <h3>👋 Welcome to my digital space!</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I+am+Abhiram+A+B;BTech+Computer+Science+Student;Backend+Developer+in+Progress;Python+%7C+Django+%7C+SQL+%7C+DSA;Exploring+Cloud+%26+DevOps;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I+am+Abhi;BTech+Computer+Science+Student;Backend+Developer+in+Progress;Python+%7C+Django+%7C+SQL+%7C+DSA;Exploring+Cloud+%26+DevOps;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 
 <br><br>
 
